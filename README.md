@@ -14,6 +14,9 @@ This scraper scrapes:
 - Linkedin article pages for article data
 
 For output examples see the `./results` directory.
+Scraped data is also exported in the `data_source` directory using the JSON
+Lines format. Large datasets are automatically split into `chunk_###.jsonl`
+files with up to 100,000 records each.
 
 ## Fair Use Disclaimer
 
