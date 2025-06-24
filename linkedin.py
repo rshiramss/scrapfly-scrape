@@ -13,6 +13,10 @@ from urllib.parse import urlencode, quote_plus
 from parsel import Selector
 from loguru import logger as log
 from scrapfly import ScrapeConfig, ScrapflyClient, ScrapeApiResponse
+from dotenv import load_dotenv
+
+# Add these two lines to load .env file
+load_dotenv()
 
 SCRAPFLY = ScrapflyClient(key=os.environ["SCRAPFLY_KEY"])
 

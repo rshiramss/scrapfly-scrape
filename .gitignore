@@ -12,6 +12,9 @@ ENV/
 # CSV files
 *.csv
 
+# Results directory - contains scraped data and output files
+results/
+
 # Python
 __pycache__/
 *.py[cod]
