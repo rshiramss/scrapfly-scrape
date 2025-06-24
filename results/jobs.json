@@ -1,0 +1,148 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "datePosted": "2025-03-17T18:49:12.000Z",
+    "employmentType": "CONTRACTOR",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "US Tech Solutions",
+      "sameAs": "https://www.linkedin.com/company/us-tech-solutions",
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH8jMIQkkDmlQ/company-logo_200_200/company-logo_200_200/0/1719255651221/us_tech_solutions_logo?e=2147483647&amp;v=beta&amp;t=r1Naf2dqIHgRvpitO7T7s0i9BbsE32_jJdfR1sY-PK0"
+    },
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "US Tech Solutions"
+    },
+    "image": "https://media.licdn.com/dms/image/v2/D4E0BAQH8jMIQkkDmlQ/company-logo_100_100/company-logo_100_100/0/1719257874930/us_tech_solutions_logo?e=2147483647&amp;v=beta&amp;t=MvbHC7ycf8rKW3DjMhPpAAplVORPLPnk-xE7y2aX2-4",
+    "industry": "Banking,Financial Services",
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "US",
+        "addressLocality": "Strongsville",
+        "addressRegion": "OH",
+        "streetAddress": null
+      },
+      "latitude": 41.31425,
+      "longitude": -81.83516
+    },
+    "skills": "",
+    "title": "Python Developer",
+    "validThrough": "2025-04-16T18:49:12.000Z",
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "bachelor degree"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "jobDescription": [
+      "Level 2; 3-5 years"
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "datePosted": "2025-03-17T18:45:49.000Z",
+    "employmentType": "CONTRACTOR",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "US Tech Solutions",
+      "sameAs": "https://www.linkedin.com/company/us-tech-solutions",
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH8jMIQkkDmlQ/company-logo_200_200/company-logo_200_200/0/1719255651221/us_tech_solutions_logo?e=2147483647&amp;v=beta&amp;t=r1Naf2dqIHgRvpitO7T7s0i9BbsE32_jJdfR1sY-PK0"
+    },
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "US Tech Solutions"
+    },
+    "image": "https://media.licdn.com/dms/image/v2/D4E0BAQH8jMIQkkDmlQ/company-logo_100_100/company-logo_100_100/0/1719257874930/us_tech_solutions_logo?e=2147483647&amp;v=beta&amp;t=MvbHC7ycf8rKW3DjMhPpAAplVORPLPnk-xE7y2aX2-4",
+    "industry": "Banking,Financial Services",
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "US",
+        "addressLocality": "Pittsburgh",
+        "addressRegion": "PA",
+        "streetAddress": null
+      },
+      "latitude": 40.44217,
+      "longitude": -79.99496
+    },
+    "skills": "",
+    "title": "Python Developer",
+    "validThrough": "2025-04-16T18:45:49.000Z",
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "bachelor degree"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "jobDescription": [
+      "Level 2; 3-5 years"
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "datePosted": "2025-03-17T13:01:38.000Z",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Altimetrik",
+      "sameAs": "https://www.linkedin.com/company/altimetrik",
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQELKpYlrYs71A/company-logo_200_200/company-logo_200_200/0/1719872906947/altimetrik_logo?e=2147483647&amp;v=beta&amp;t=Lz6lT4At_QD6rlMcuje7WzJVc4Jd3MwvBOxJvGjoQfI"
+    },
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Altimetrik"
+    },
+    "image": "https://media.licdn.com/dms/image/v2/D4E0BAQELKpYlrYs71A/company-logo_100_100/company-logo_100_100/0/1719872906947/altimetrik_logo?e=2147483647&amp;v=beta&amp;t=8NYtQZ4pNpTblOWyc6sXWEDFCnDquRYNfyx8Eju77t8",
+    "industry": "IT Services and IT Consulting",
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "US",
+        "addressLocality": "San Francisco Bay Area",
+        "addressRegion": null,
+        "streetAddress": null
+      },
+      "latitude": 37.39271,
+      "longitude": -122.042
+    },
+    "skills": "",
+    "title": "Python Developer",
+    "validThrough": "2025-04-16T13:01:37.000Z",
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "bachelor degree"
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "San Francisco Bay Area"
+    },
+    "jobDescription": [
+      "Help translate product requirements into user stories and technical solutions",
+      "Deliver highly available and scalable services in a production environment",
+      "Mentor other engineers, support the technological culture, and help grow the team",
+      "Write, test, and deploy efficient, scalable code to production that impacts millions of individuals",
+      "Communicate with project leads, product managers, and other software developers",
+      "Participating in code and design reviews",
+      "Becoming domain experts on aspects of the payment processing industry",
+      "Bachelor's Degree in Computer Science or related field.",
+      "Hands-on programming experience in Python.",
+      "Hands-on experience with self-testing code (unit tests) and building systems.",
+      "Emerging ability to lead and influence a team's technical direction",
+      "Hands-on experience with database and cloud technologies",
+      "Emerging ability to design resilient software components within a distributed system.",
+      "Our core stack is Python, migrating from system software in C, and legacy PHP in some places; as part of our move to the cloud, we’re running Kubernetes, and AWS technologies like EKS/Lambda/RDS/Aurora/Dynamo"
+    ]
+  }
+]
